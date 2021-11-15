@@ -1,0 +1,9 @@
+Package: randomLetter
+Type: Package
+Title: Random Letter
+Version: 1.0
+Date: 2021-11-15
+Author: Pragna Bhatt
+Maintainer: Pragna Bhatt <bhattpragna23@gmail.com>
+Description: Returns a random letter of the alphabet.
+License: What license is it under?
